@@ -1,0 +1,3 @@
+include ':pdfandimageviewer'
+include ':app'
+rootProject.name = "Document Viewer"
