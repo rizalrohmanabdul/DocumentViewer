@@ -10,9 +10,6 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.github.barteksc.pdfviewer.PDFView
 import com.github.barteksc.pdfviewer.link.DefaultLinkHandler
-import es.voghdev.pdfviewpager.library.remote.DownloadFile
-import es.voghdev.pdfviewpager.library.remote.DownloadFileUrlConnectionImpl
-import es.voghdev.pdfviewpager.library.util.FileUtil
 import java.io.File
 import java.lang.Exception
 
